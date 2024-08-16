@@ -1,8 +1,13 @@
 # Halb-Volladdierer
-PCB Halb-Volladdierer
+
+2 Halbaddierer -> Volladdierer
+
+![Bild](pic/halb-volladdierer.png)
+
+4Bit Addierer/Subtrahierer
 
 ![Bild](pic/addierer-subtrahierer.png)
 
-![Bild](pic/halb-volladdierer.png)
+74LS83 4Bit 4Bit Addierer/Subtrahierer
 
 ![Bild](pic/7483add-sub.png)
