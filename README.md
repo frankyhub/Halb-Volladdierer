@@ -1,5 +1,11 @@
 # Halb-Volladdierer
 
+![Bild](pic/hv1.JVG)
+
+![Bild](pic/hv2.JVG)
+
+![Bild](pic/hv3.JVG)
+
 2 Halbaddierer -> Volladdierer
 
 ![Bild](pic/halb-volladdierer.png)
