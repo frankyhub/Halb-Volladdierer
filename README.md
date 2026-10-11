@@ -8,7 +8,6 @@
 <a href="https://github.com/frankyhub/Halb-Volladdierer/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Halb-Volladdierer)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Halb-Volladdierer)|<a href="https://github.com/frankyhub/Halb-Volladdierer/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Halb-Volladdierer)|<a href="https://github.com/frankyhub/Halb-Volladdierer/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Halb-Volladdierer)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2061-blue)|
 |![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Halb-Volladdierer)| <a href="https://github.com/frankyhub/Halb-Volladdierer/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Halb-Volladdierer/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
 
-</div>
 
 
 
